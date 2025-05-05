@@ -21,7 +21,7 @@ router.post('/:todoId', (req, res) => {
 
 
 router.put('/:todoId', (req, res) => {
-    res.send('Post Update Successfully accor to Your Id')
+    res.send('Post Update Successfully accor to Your Id')   
 })  
 
 // delete the post
